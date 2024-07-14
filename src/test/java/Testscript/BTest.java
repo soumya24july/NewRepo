@@ -11,7 +11,7 @@ public class BTest {
 	public void m2()
 	{
 		WebDriver driver=new ChromeDriver();
-		driver.get("https://www.cricbuzz.com");
+		driver.get("https://www.google.com");
 	}
 
 }
